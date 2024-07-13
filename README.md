@@ -1,3 +1,4 @@
+sequencia de fibonacci feita em flutter
 # testeaulafuncao
 
 A new Flutter project.
